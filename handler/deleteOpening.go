@@ -16,7 +16,7 @@ import (
 //@Tags Openings
 //@Accept json
 //@Produce json
-//@Param id query string true "Opening Identification"
+//@Param id query string true "Opening identification"
 //@Sucess 200 {object} DeleteOpeningResponse
 //@Failure 400 {object} ErrorResponse
 //@Failure 500 {object} ErrorResponse
